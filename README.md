@@ -1,10 +1,8 @@
 ### Hola, soy David Salgado 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Mi área favorita: Frontend developer
+- 🌱 Actualmente aprendiendo: Node JS 
 
 <div>
-  <img height="180em" src="https://gifimage.net/wp-content/uploads/2017/09/anime-typing-gif-2.gif" />
+  <img height="auto" width="100%" src="https://gifimage.net/wp-content/uploads/2017/09/anime-typing-gif-2.gif" />
 </div>
