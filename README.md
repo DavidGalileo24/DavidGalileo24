@@ -6,5 +6,5 @@
 -->
 
 <div>
-  <img height="180em" src="https://images.app.goo.gl/XyRS1mzx79roBmcPA" />
+  <img height="180em" src="https://c.tenor.com/exuPwTTU-FwAAAAS/key-click-typing.gif" />
 </div>
