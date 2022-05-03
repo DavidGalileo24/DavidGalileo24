@@ -6,5 +6,5 @@
 -->
 
 <div>
-  <img height="180em" src="https://c.tenor.com/exuPwTTU-FwAAAAS/key-click-typing.gif" />
+  <img height="180em" src="https://gifimage.net/wp-content/uploads/2017/09/anime-typing-gif-2.gif" />
 </div>
