@@ -1,6 +1,6 @@
 ### Hola, soy David Salgado 👋
 
-- 🔭 Mi área favorita: Frontend developer
+- 🔭 Mi área favorita: Backend developer
 - 🌱 Actualmente aprendiendo: Node JS 
 
 <div>
