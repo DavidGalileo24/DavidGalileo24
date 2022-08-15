@@ -1,7 +1,7 @@
-### Hola, soy David Salgado 👋
+### Hi! I'm David Salgado 👋
 
-- 🔭 Mi área favorita: Backend developer
-- 🌱 Actualmente aprendiendo: Vue JS 
+- 🔭 My work area is Backend developer
+- 🌱 Currently learning: Vue JS 
 
 <div>
   <img height="auto" width="100%" src="https://gifimage.net/wp-content/uploads/2017/09/anime-typing-gif-2.gif" />
