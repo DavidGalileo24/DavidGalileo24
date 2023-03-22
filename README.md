@@ -4,5 +4,5 @@
 - 🌱 Currently learning: Python 
 
 <div>
-  <img height="300" width="500" src="https://media.tenor.com/wxhvRcBY2zgAAAAC/pokemon-confused.gif" />
+  <img height="300" width="85%" style="display:block; margin: 0 auto;" src="https://media.tenor.com/wxhvRcBY2zgAAAAC/pokemon-confused.gif" />
 </div>
