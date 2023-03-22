@@ -4,5 +4,5 @@
 - 🌱 Currently learning: Python 
 
 <div>
-  <img height="300px" width="100%" src="https://gifimage.net/wp-content/uploads/2017/09/anime-typing-gif-2.gif" />
+  <img height="300px" width="100%" src="[https://gifimage.net/wp-content/uploads/2017/09/anime-typing-gif-2.gif](https://i.pinimg.com/originals/7f/8e/9b/7f8e9b32648dcb1ea6de6711ac09e26c.gif)" />
 </div>
