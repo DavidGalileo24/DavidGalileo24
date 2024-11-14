@@ -3,9 +3,6 @@
 - 🔭 My work area is fullstack developer
 - 🌱 Currently learning: ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<div>
-  <img height="300" width="500" style="" src="https://media.tenor.com/wxhvRcBY2zgAAAAC/pokemon-confused.gif" />
-</div>
 
 ## 💻 My tech stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
