@@ -2,6 +2,7 @@
 
 - 🔭 My work area is fullstack developer
 - 🌱 Currently learning: ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- [My portfolio](https://davidsalgado.dev/)
 
 
 ## 💻 My tech stack:
